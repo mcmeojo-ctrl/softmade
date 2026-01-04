@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://alocatetomywebmailservice.framer.website"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://conscientious-group-454087.framer.app"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
